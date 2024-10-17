@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
 to run the code open terminal in VS Code and write the below command
 **npm run dev**
-after that you will get a url. click on that URL or copy nd paste it in any browser.
+after that you will get a url. click on that URL or copy and paste it in any browser.
