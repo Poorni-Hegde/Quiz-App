@@ -1,0 +1,42 @@
+export const data = [
+    {
+        question: "Which device is required for the Internet Connection?",
+        option1: "Modem",
+        option2: "Router",
+        option3: "LAN Cable",
+        option4: "Joystick",
+        ans: 1,
+    },
+    {
+        question: "First page of Website is termed as?",
+        option1: "Index Page",
+        option2: "Home Page",
+        option3: "Sitemap",
+        option4: "Pendrive",
+        ans: 2,
+    },
+    {
+        question: "A computer cannot BOOT if it does not have the?",
+        option1: "Application Software",
+        option2: "Internet",
+        option3: "Operating System",
+        option4: "Mouse",
+        ans: 3,
+    },
+    {
+        question: "What is the capital of Haryana?",
+        option1: "Gujrath",
+        option2: "Jamshedpur",
+        option3: "Panipat",
+        option4: "Chandigarh",
+        ans: 4,
+    },
+    {
+        question: "Junk E-mail is also called?",
+        option1: "Fake",
+        option2: "Spam",
+        option3: "Archived",
+        option4: "Bin",
+        ans: 2,
+    },
+];
